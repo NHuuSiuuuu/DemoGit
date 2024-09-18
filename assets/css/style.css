@@ -1,0 +1,34 @@
+
+.header ol{
+    list-style-position: inside; 
+    font-size: 24px;
+}
+.header li > a{
+    text-decoration: none ;
+    color: black; 
+    font-size: 24px; 
+}
+.header a:hover{
+     background-color: yellow;
+}
+
+th{
+    height:40px;
+}
+td{
+    padding: 10px;;
+}
+table{
+    width:70%;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 20px;;
+}
+.container,
+.header{
+    margin: 1rem;
+    padding: 0 4rem;
+}
+  
